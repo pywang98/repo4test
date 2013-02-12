@@ -4,5 +4,5 @@
 main(int argc, char**argv)
 {
 	(void)printf("Hello World!\n");
-	(void)exit(0);
+	(void)return(0);
 }
